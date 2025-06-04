@@ -24,4 +24,4 @@ Ambas FSMs están sincronizadas por un prescaler que genera una señal de reloj 
 
 **AlejandroPazG**
 
-Este diseño fue realizado como parte del proyecto de evaluación final para TinyTapeout utilizando el nodo Sky130.
+Este diseño fue realizado como parte del proyecto de evaluación final para TinyTapeout utilizando la placa basys3
